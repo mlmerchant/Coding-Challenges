@@ -21,4 +21,4 @@ if current = first Then
 End If
 
 WScript.Echo total
-' 1203 is the answer.
+' Answer pending
